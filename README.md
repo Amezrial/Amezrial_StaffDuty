@@ -6,7 +6,12 @@ A FiveM resource using webhook in Discord for toggling staff duty status.
 1. Notification in chat only the source can see.
 2. Discord Webook is all that is needed to connect to Discord and Fivem.
 3. Goes OFFDuty when /staffduty is used a second time, quiting from F8, if the server is restarted, or Fivem crashes.
-4. Logs total hours and minutes of OnDuty when you Go OffDuty.   
+4. Logs total hours and minutes of OnDuty when you Go OffDuty.
+
+   ![image](https://github.com/Amezrial/Amezrial_StaffDuty/assets/44910717/59096d91-ae48-4602-ad75-54037cf9a14f)
+   
+   ![image](https://github.com/Amezrial/Amezrial_StaffDuty/assets/44910717/05425d58-2182-4106-9531-85edf9f24cbf)
+
 
 ## Installation
 
